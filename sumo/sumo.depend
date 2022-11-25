@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1666114064 source:c:\users\yannp\desktop\code c++\sumo\main.cpp
+	<iostream>
+	<Wrestler.h>
+	<Match.h>
+	<algorithm>
+	<memory>
+
+1665954114 source:c:\users\yannp\desktop\code c++\sumo\src\person.cpp
+	"Person.h"
+
+1666118045 c:\users\yannp\desktop\code c++\sumo\include\person.h
+	<stdio.h>
+	<iostream>
+	<Stable.h>
+
+1665954114 source:c:\users\yannp\desktop\code c++\sumo\src\stable.cpp
+	"Stable.h"
+
+1665954398 c:\users\yannp\desktop\code c++\sumo\include\stable.h
+	<iostream>
+	<stdio.h>
+	<Building.h>
+
+1666026670 source:c:\users\yannp\desktop\code c++\sumo\src\referee.cpp
+	"Referee.h"
+
+1666118045 c:\users\yannp\desktop\code c++\sumo\include\referee.h
+	<iostream>
+	<stdio.h>
+	<Person.h>
+
+1666105669 source:c:\users\yannp\desktop\code c++\sumo\src\wrestler.cpp
+	"Wrestler.h"
+
+1666105669 c:\users\yannp\desktop\code c++\sumo\include\wrestler.h
+	<iostream>
+	<stdio.h>
+	<memory>
+	<Person.h>
+
+1666009190 source:c:\users\yannp\desktop\code c++\sumo\src\match.cpp
+	"Match.h"
+
+1665950275 c:\users\yannp\desktop\code c++\sumo\include\match.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<Wrestler.h>
+	<Referee.h>
+
+1665954125 source:c:\users\yannp\desktop\code c++\sumo\src\building.cpp
+	"Building.h"
+
+1665954152 c:\users\yannp\desktop\code c++\sumo\include\building.h
+	<iostream>
+
